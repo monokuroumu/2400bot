@@ -6,8 +6,10 @@ authors = ["TomaszDobrowols <<>>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-discord = "^1.7.3"
 replit = "^3.2.4"
+"discord.py-fork" = "^2.0.0-alpha.0"
+Flask = "^2.0.3"
+discord = "^1.7.3"
 
 [tool.poetry.dev-dependencies]
 
